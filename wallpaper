@@ -1,7 +1,7 @@
 /* MAIN THEME */
 :root {
 /* Transluent tag */
-  --app-bg: url(https://d1csarkz8obe9u.cloudfront.net/posterpreviews/lofi-vaporwave-monkey-album-cover-design-template-3c0f8882eade65327b1e4242f2483bae_screen.jpg?ts=1674237102);
+  --app-bg: url(https://c4.wallpaperflare.com/wallpaper/561/468/50/shinto-japan-vaporwave-lofi-hd-wallpaper-preview.jpg);
   --app-blur: 0px;
   --app-margin: 24px;
   --app-radius: 10px;
