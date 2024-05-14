@@ -1,7 +1,7 @@
 /* MAIN THEME */
 :root {
 /* Transluent tag */
-  --app-bg: url('https://c4.wallpaperflare.com/wallpaper/561/468/50/shinto-japan-vaporwave-lofi-hd-wallpaper-preview.jpg');
+  --app-bg: url(https://i.ibb.co/SJQ5jZm/pixelcut-export.png);
   --app-blur: 0px;
   --app-margin: 24px;
   --app-radius: 10px;
